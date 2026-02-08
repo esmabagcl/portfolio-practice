@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* İsteğe bağlı: Kendi stillerin */
+body {
+  font-family: system-ui, sans-serif;
+}
