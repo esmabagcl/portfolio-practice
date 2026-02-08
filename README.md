@@ -1,17 +1,26 @@
 # Portfolio Practice
 
-This project is a portfolio website developed by me using React and Tailwind CSS.  
-The design is inspired by an example portfolio and does not belong to a real person.
+## Project Description
+Portfolio Practice is a web application developed by me using React and Tailwind CSS.  
+The project is inspired by an example portfolio design and does not belong to a real person.  
+Its purpose is to practice modern frontend development and create a responsive, stylish portfolio interface.
 
-## 🚀 About the Project
-The goal of this project was to practice modern web development by building a stylish and dynamic portfolio interface from scratch.
+## My Role
+I developed this project independently, implementing all frontend components, styling, and layout.  
+This project helped me gain practical experience in building responsive web interfaces and structuring a modern frontend project.
 
-## 🛠️ Technologies
-* **Framework:** React
-* **Build Tool:** Vite
-* **Styling:** Tailwind CSS
+## Features
+- Fully responsive layout for desktop and mobile
+- Component-based architecture using React
+- Smooth navigation and interactive UI
+- Clean and modern design
 
-## 📂 Setup
+## Technologies Used
+- React
+- Tailwind CSS
+- Vite Tailwind CSS
+
+## Setup
 1. Clone the repository: `git clone https://github.com/esmabagcl/portfolio-practice.git`
 2. Install dependencies: `npm install`
 3. Run the project: `npm run dev`
