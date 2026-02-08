@@ -1,9 +1,10 @@
 # Portfolio Practice
 
-This project is a personal portfolio created using React and Tailwind CSS.
+This project is a portfolio website developed by me using React and Tailwind CSS.  
+The design is inspired by an example portfolio and does not belong to a real person.
 
 ## 🚀 About the Project
-The goal of this project was to create a modern, dynamic, and stylish portfolio interface using contemporary web development tools.
+The goal of this project was to practice modern web development by building a stylish and dynamic portfolio interface from scratch.
 
 ## 🛠️ Technologies
 * **Framework:** React
